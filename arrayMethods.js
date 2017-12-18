@@ -51,3 +51,6 @@ gemBox.splice(5, 2);
 
 //#upToTen
 upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
+
+//#brownOnly
+brownOnly.splice(1, 5, "brown", "brown", "brown");
