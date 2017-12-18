@@ -70,3 +70,6 @@ var sentence = scrambledWords.join(" ");
 
 //#myFruits
 var myFruits = fruitCollection.join(" + ");
+
+//#favoriteFriends
+var favoriteFriends = friends.slice(1, 3);
