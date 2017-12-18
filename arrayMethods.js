@@ -23,3 +23,6 @@ nameArray.push("Jocelyn", "Belden");
 
 //#genericNumberArray
 genericNumberArray.push(6, 7, 8, 9, 10);
+
+//#colors
+var popResult = colors.pop();
