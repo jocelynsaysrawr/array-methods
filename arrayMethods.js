@@ -67,3 +67,6 @@ var updatedOrders = orderQueue.concat(newOrders);
 
 //#sentence
 var sentence = scrambledWords.join(" ");
+
+//#myFruits
+var myFruits = fruitCollection.join(" + ");
