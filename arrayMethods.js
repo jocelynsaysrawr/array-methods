@@ -54,3 +54,6 @@ upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
 
 //#brownOnly
 brownOnly.splice(1, 5, "brown", "brown", "brown");
+
+//#orderedValuesNewLength
+var orderedValuesNewLength = orderedValues.unshift(1, 2, 3);
