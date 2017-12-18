@@ -57,3 +57,6 @@ brownOnly.splice(1, 5, "brown", "brown", "brown");
 
 //#orderedValuesNewLength
 var orderedValuesNewLength = orderedValues.unshift(1, 2, 3);
+
+//#randomThingsArray
+var randomThingsArray = genericNumberArray.concat(colors);
