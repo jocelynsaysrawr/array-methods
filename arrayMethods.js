@@ -38,3 +38,6 @@ var nextOrder = orderQueue.shift();
 
 //#mixedNums
 mixedNums.sort();
+
+//#mixedWords
+mixedWords.sort();
