@@ -29,3 +29,6 @@ var popResult = colors.pop();
 
 //#scrambledWords
 scrambledWords.reverse();
+
+//#phoneNumber
+phoneNumber.reverse();
