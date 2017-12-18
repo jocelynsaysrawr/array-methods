@@ -64,3 +64,6 @@ var randomThingsArray = genericNumberArray.concat(colors);
 //#updatedOrders
 var newOrders = [{takeOut: "Cheeseburger"}, {takeOut: "Small Salad"}]
 var updatedOrders = orderQueue.concat(newOrders);
+
+//#sentence
+var sentence = scrambledWords.join(" ");
