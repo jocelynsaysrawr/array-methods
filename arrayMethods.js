@@ -44,3 +44,7 @@ mixedWords.sort();
 
 //#notFruit
 var notFruit = fruitCollection.splice(1, 3);
+
+//#gemBox
+gemBox.splice(8);
+gemBox.splice(5, 2);
