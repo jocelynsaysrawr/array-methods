@@ -41,3 +41,6 @@ mixedNums.sort();
 
 //#mixedWords
 mixedWords.sort();
+
+//#notFruit
+var notFruit = fruitCollection.splice(1, 3);
