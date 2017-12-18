@@ -32,3 +32,6 @@ scrambledWords.reverse();
 
 //#phoneNumber
 phoneNumber.reverse();
+
+//#orderQueue
+var nextOrder = orderQueue.shift();
