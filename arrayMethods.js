@@ -88,3 +88,6 @@ var favoriteEvenNumber = mixedNums.indexOf(76);
 
 //#lastNine
 var lastNine = bulkNumbers.lastIndexOf(9);
+
+//#lastFive 
+var lastFive = bulkNumbers.lastIndexOf(5);
