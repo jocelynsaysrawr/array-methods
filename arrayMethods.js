@@ -73,3 +73,6 @@ var myFruits = fruitCollection.join(" + ");
 
 //#favoriteFriends
 var favoriteFriends = friends.slice(1, 3);
+
+//#owesMoney
+var owesMoney = friends.slice(3);
